@@ -6,7 +6,6 @@
 </nav>
 <div style="padding: 20px;">
 </div>
-
 <style>
   nav ul li a:hover {
     background-color: #575757;
@@ -14,7 +13,6 @@
 </style>
 <div style="padding: 20px;">
 </div>
-
 # Wherobots Visual Studio
 
 Welcome to Wherobots Visual Studio (WVS), the fictitious geospatial visualization studio for building spatial workflows
