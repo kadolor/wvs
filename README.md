@@ -5,6 +5,8 @@ and visualizing spatial data on WherobotsDB.
 
 ## What can you do with WVS?
 
+WVS creates Dimensional Data :TM:, amplifying the value in flat data sources to create engaging geospatial images.
+
 ## Get Started
 
 You can use WVS from the command line or from the browser.
@@ -16,6 +18,8 @@ Hello
 <div style="text-align: center;">
   <a href="https://example.com" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">WVS CLI</a>
 </div>
+
+</br>
 
 <div style="text-align: center;">
   <a href="https://example.com" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">WVS Online</a>
