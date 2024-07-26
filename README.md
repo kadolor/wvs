@@ -1,7 +1,7 @@
 <nav style="background-color: #333; padding: 10px;">
   <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
-    <li style="float: center;"><a href="/" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Get Started</a></li>
-    <li style="float: center;"><a href="/about" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Icebox</a></li>
+    <li style="float: left;"><a href="/" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Get Started</a></li>
+    <li style="float: left;"><a href="/about" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Known Issues & Roadmap</a></li>
   </ul>
 </nav>
 <div style="padding: 20px;">
