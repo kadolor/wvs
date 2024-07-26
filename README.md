@@ -5,7 +5,7 @@ and visualizing spatial data on WherobotsDB.
 
 ## What can you do with WVS?
 
-WVS creates Dimensional Data ™️:, amplifying the value in flat data sources to create engaging geospatial images.
+Using the proprietary Dimensional Data Depiction Engine(3DE) ™️, Wherobots amplifiesg the value in flat data sources to create engaging geospatial images that capture your insights.
 
 ## Get Started
 
