@@ -18,8 +18,7 @@ Hello
 <div style="text-align: center;">
   <a href="https://example.com" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">WVS CLI</a>
 </div>
-
-
+<br>
 <div style="text-align: center;">
   <a href="https://example.com" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">WVS Online</a>
 </div>
