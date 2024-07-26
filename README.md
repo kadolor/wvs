@@ -1,4 +1,14 @@
 # Wherobots Visual Studio
+<nav style="background-color: #333; padding: 10px;">
+  <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
+    <li style="float: left;"><a href="/" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">Home</a></li>
+    <li style="float: left;"><a href="/about" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">About</a></li>
+    <li style="float: left;"><a href="/contact" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">Contact</a></li>
+  </ul>
+</nav>
+
+<div style="padding: 20px;">
+</div>
 
 Welcome to Wherobots Visual Studio (WVS), the fictitious geospatial visualization studio for building spatial workflows
 and visualizing spatial data on WherobotsDB.
