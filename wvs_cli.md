@@ -11,8 +11,25 @@ Before beginning this Get Started tutorial, you must have the following:
 * A Wherobots account --  If you don't have an account yet, see TEXT.
 * Python 3.x
 * A code editor or IDE.
+* A packagage manager like `pip`
 
-### Install WVS
+## Install WVS
+
+To install WVS, do the following:
+
+1. Within your command line, run the following command:
+
+2. Confirm that you have installed WVS successfully by running the followwing command:
+
+This command should return WVS' latest stable version.
+
+## Build a spatial workflow
+
+### Review the tabular data
+
+WVS contains an example directory with several CSV files that co
+
+###
 
 
 
