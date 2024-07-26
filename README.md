@@ -7,7 +7,7 @@ and visualizing spatial data on WherobotsDB.
 
 Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, Wherobots showcases the value in your flat data sources by creating engaging geospatial images that capture your insights.
 
-![2d_3de](images/flat to 3de cropped.png)
+<div style="text-align: center;">![2d_3de](images/flat to 3de cropped.png)</div>
 
 ## Get Started
 
