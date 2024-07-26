@@ -11,10 +11,6 @@ Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, Wherobots 
 
 You can use WVS from the command line or from the browser.
 
-# Code Sample with Copy Button
-
-Below is an example of a code block with a copy button.
-
 <div style="position: relative;">
   <pre><code id="code-sample">
     // Your code here
