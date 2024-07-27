@@ -78,12 +78,34 @@ If installed WVS is installed successfully successfully, this command returns WV
    3. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
 
 1. Add the API key to your bash profile.
-   1. From your command line,
+   1. From your command line, open your bash profile.
 
-       ```python
-       python wherobotsvs -v
-       ```
-       
+    <div style="position: relative;">
+      <pre><code id="code-sample">
+        nano ~./bash_profile
+      </code></pre>
+      <button onclick="copyToClipboard()" style="position: absolute; top: 0; right: 0; padding: 1px 1px; background-color: #007bff; color: white; border: none; border-radius: 1px; cursor: pointer;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard" viewBox="0 0 16 16">
+          <path d="M10 1.5H6a.5.5 0 0 0-.5.5v1H4a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1.5v-1a.5.5 0 0 0-.5-.5zM6 2h4v1H6V2z"/>
+          <path d="M4.5 3h7a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+        </svg>
+      </button>
+    </div>
+    
+   1. Add your API key as a variable. 
+
+    <div style="position: relative;">
+      <pre><code id="code-sample">
+        API-KEY = YOUR_API_KEY
+      </code></pre>
+      <button onclick="copyToClipboard()" style="position: absolute; top: 0; right: 0; padding: 1px 1px; background-color: #007bff; color: white; border: none; border-radius: 1px; cursor: pointer;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard" viewBox="0 0 16 16">
+          <path d="M10 1.5H6a.5.5 0 0 0-.5.5v1H4a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1.5v-1a.5.5 0 0 0-.5-.5zM6 2h4v1H6V2z"/>
+          <path d="M4.5 3h7a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+        </svg>
+      </button>
+    </div>
+    
 ## Run a geospatial query
 
 ### View the tabular data
