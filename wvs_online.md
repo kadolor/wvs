@@ -1,8 +1,8 @@
 # WVS Get Started: WVS Online
 
-This guide details how to use the Wherobots visual studio Online to create a 3DE:tm: image of your tabular data.
+This guide details how to use the Wherobots visual studio Online to create a 3DE :tm: image of your tabular data.
 
-3DE:tm: is Wherobots' proprietary Dimensional Data Depiction Engine.
+3DE :tm: is Wherobots' proprietary Dimensional Data Depiction Engine.
 
 WVS leverages this engine to convert CSV files to contextually aware 3D images.
 
