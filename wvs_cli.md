@@ -110,7 +110,7 @@ If WVS is installed successfully, this command returns WVS' latest stable versio
 
 WVS contains an example directory with several CSV files that can be converted with WVS.
 
-1. To generate a contextually aware 3DE image, run the following command:
+1. To generate a contextually aware 3DE image, run the following command in your terminal:
     <div style="position: relative;">
       <pre><code id="code-sample">
         python wherobotsvs --convert file="examples/001.csv"
