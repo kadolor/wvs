@@ -2,9 +2,9 @@
 title: WVS CLI Get Started
 ---
 
-# Get Started: Wherobots Visual Studio Command line interface
+# Get Started: WVS Command line interface (Python)
 
-This guide details how to get started using the Wherobots visual studio CLI to create a visual representation.
+This guide details how to use the Wherobots visual studio CLI in Python to create a 3DE:tm:-powered image of your tabular data.
 
 To showcase what's possible with WVS, this guide demonstrates how transform tabular geospatial data into a three dimensional data.
 
