@@ -22,12 +22,12 @@ Before beginning this Get Started tutorial, you must have the following:
 
 To establish your developement environment you must:
 
-* Install WVS
+* Install the WVS Python package
 * Store your API Key
 
 ### Install WVS
 
-To install WVS, do the following:
+To install WVS, complete the following steps:
 
 1. Within your command line, run the following command:
 
