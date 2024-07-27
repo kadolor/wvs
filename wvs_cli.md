@@ -8,6 +8,10 @@ This guide details how to use the Wherobots visual studio CLI in Python to creat
 
 To showcase what's possible with WVS, this guide demonstrates how transform tabular geospatial data into a three dimensional data.
 
+## Supported workflow
+
+
+
 ## Prerequisites
 
 Before beginning this Get Started tutorial, you must have the following:
