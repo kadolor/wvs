@@ -1,4 +1,4 @@
-# WVS Get Started: WVS Online
+# Get Started: WVS Online
 
 Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, WVS emphasizes your insights by converting your flat data sources into contextually aware geospatial images.
 
