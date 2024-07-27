@@ -4,11 +4,11 @@ title: WVS CLI Get Started
 
 # Get Started: WVS Command line interface (Python)
 
-This guide details how to use the Wherobots visual studio CLI in Python to create a 3DE™️ powered image of your tabular data.
+This guide details how to use the Wherobots Visual Studio CLI in Python to create a 3DE™️ powered image of your tabular data.
 
 ## Expectation
 
-* WVS discerns that a CSV file containing coordinates are the location of a hiking trail in Tokyo, Japan.
+* WVS uses the provided coordinates to discern a place's location.  In this example, the coordinates are the location of a hiking trail in Tokyo, Japan.
 * WVS converts these coordinates to a contextually aware image.
 
 ## Prerequisites
