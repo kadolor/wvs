@@ -104,7 +104,7 @@ If installed WVS is installed successfully, this command returns WVS' latest sta
           </button>
         </div>
 
-        Replace `YOUR_API_KEY` with the Wherobots API Key you previously copied.
+        Replace `YOUR_API_KEY` with the Wherobots API Key that you previously copied.
     
 ## Run a geospatial query
 
