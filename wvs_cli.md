@@ -96,7 +96,7 @@ If installed WVS is installed successfully successfully, this command returns WV
 
     <div style="position: relative;">
       <pre><code id="code-sample">
-        API-KEY = YOUR_API_KEY
+        API_KEY = YOUR_API_KEY
       </code></pre>
       <button onclick="copyToClipboard()" style="position: absolute; top: 0; right: 0; padding: 1px 1px; background-color: #007bff; color: white; border: none; border-radius: 1px; cursor: pointer;">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard" viewBox="0 0 16 16">
@@ -105,6 +105,8 @@ If installed WVS is installed successfully successfully, this command returns WV
         </svg>
       </button>
     </div>
+
+    Replace `YOUR_API_KEY` with the API Key you previously copied.
     
 ## Run a geospatial query
 
