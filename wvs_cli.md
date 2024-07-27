@@ -135,7 +135,7 @@ At this point, you should see the following contextually-aware image of a hiking
 
 ## What's next?
 
-Only paid Wherobots users can transform additional data points. To transform data that isn't included in the default `examples` directory, you must upgade your account.
+Only paid Wherobots users can convert additional data points. To convert data that isn't included in the default `examples` directory, you must upgade your account.
 
 To learn more about upgrading your account, click the button below.
 
