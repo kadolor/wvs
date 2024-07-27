@@ -5,7 +5,8 @@ and visualizing spatial data on WherobotsDB.
 
 ## What can you do with WVS?
 
-Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, Wherobots showcases the value in your flat data sources by creating engaging geospatial images that capture your insights.
+Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, Wherobots showcases the value in your flat data sources by creating
+contextually aware geospatial images that emphasize your insights.
 
 ![2d_3de](images/dimension.png)
 
