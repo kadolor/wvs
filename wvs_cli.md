@@ -144,7 +144,6 @@ To learn more about upgrading your account, click the button button below.
 <div style="text-align: center;">
   <a href="https://wherobots.com/pricing/" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; on-click: copyToClipboard;">See pricing plans</a>
 </div>
-
 <br>
   <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
     <li style="float: left;"><a href="/" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Get Started</a></li>
