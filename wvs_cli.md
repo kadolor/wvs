@@ -1,5 +1,5 @@
 ---
-title: CLI Get Started
+title: WVS CLI Get Started
 ---
 
 # Get Started: Wherobots Visual Studio Command line interface
