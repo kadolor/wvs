@@ -59,7 +59,7 @@ To install WVS, complete the following steps:
       }
     </script>
 
-1. Confirm that you have installed WVS successfully by running the followwing command:
+2. Confirm that you have installed WVS successfully by running the followwing command:
 
     <div style="position: relative;">
       <pre><code id="code-sample">
