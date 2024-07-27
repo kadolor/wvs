@@ -24,8 +24,10 @@ Before beginning this Get Started tutorial, you must have the following:
 3. In the **Convert geospatial data** section, select `examples/001.csv` from the dropdown menu.
 4. Click **Start**. Wait between 2 to 3 minutes.
    
-
-
+<div style="text-align: center;">
+  <a href="https://wherobots.com/pricing/" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; on-click: copyToClipboard;">See pricing plans</a>
+</div>
+<br>
 <nav style="background-color: #333; padding: 10px;">
   <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
     <li style="float: left;"><a href="/" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Get Started</a></li>
