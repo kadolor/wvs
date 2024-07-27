@@ -21,9 +21,9 @@ Before beginning this Get Started tutorial, you must have the following:
 1. Login to
 2. On the left-hand side click **Wherobots Visual Studio**.
    [!nav](/images/navigation.png)
-3. Within Wherobots Visual Studio select `examples/001.csv` from the dropdown menu.
+3. In the **Convert geospatial data** section, select `examples/001.csv` from the dropdown menu.
 4. Click **Start**. Wait between 2 to 3 minutes.
-5. 
+   
 
 
 <nav style="background-color: #333; padding: 10px;">
