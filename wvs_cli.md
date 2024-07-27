@@ -6,11 +6,14 @@ title: WVS CLI Get Started
 
 This guide details how to use the Wherobots visual studio CLI in Python to create a 3DE:tm:-powered image of your tabular data.
 
-To showcase what's possible with WVS, this guide demonstrates how transform tabular geospatial data into a three dimensional data.
+WVS converts CSV files to contextually aware 3D images.
 
-## Supported workflow
+## Expectation
 
+* WVS discerns that a CSV file containing coordinates are the location of a hiking trail in Tokyo, Japan.
+* WVS converts these coordinates to the following image:
 
+![2d_3de](/images/dimension.png)
 
 ## Prerequisites
 
