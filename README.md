@@ -1,12 +1,11 @@
 # Wherobots Visual Studio
 
-Welcome to Wherobots Visual Studio (WVS), the fictitious geospatial visualization studio for building spatial workflows
-and visualizing spatial data on WherobotsDB.
+Welcome to Wherobots Visual Studio (WVS), the fictitious geospatial visualization studio built on WherobotsDB.
 
 ## What can you do with WVS?
 
-Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, Wherobots showcases the value in your flat data sources by creating
-contextually aware geospatial images that emphasize your insights.
+Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, WVS emphasizes your insights by converting your flat data sources into
+contextually aware geospatial images.
 
 
 ### Supported workflow
@@ -20,7 +19,7 @@ latitude,longitude
 35.6895,139.6917
 ```
 
-WVS can convert these coordinates to the following image:
+WVS can convert these coordinates into an image of the hiking trail.
 
 ![2d_3de](/images/dimension.png)
 
