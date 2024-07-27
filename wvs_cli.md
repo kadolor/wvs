@@ -4,7 +4,7 @@ This guide details how to use the Wherobots Visual Studio CLI in Python to creat
 
 ## Expectation
 
-* WVS uses the provided coordinates to discern a place's location.  In this example, the coordinates are the location of a hiking trail in Tokyo, Japan.
+* WVS uses the provided coordinates to discern a place's location.  In `examples/001.csv`, the coordinates are the location of a hiking trail in Tokyo, Japan.
 * WVS converts these coordinates to a contextually aware image.
 
 ## Prerequisites
@@ -108,7 +108,7 @@ If WVS is installed successfully, this command returns WVS' latest stable versio
     
 ## Run a geospatial query
 
-WVS contains an example directory with several CSV files that can be converted with WVS.
+WVS contains an `example` directory with several CSV files that can be converted with WVS.
 
 1. To generate a contextually aware 3DE image, run the following command in your terminal:
     <div style="position: relative;">
