@@ -119,7 +119,8 @@ WVS contains an example directory with several CSV files that can be transformed
 3. 
 
 ## What's next?
-Unless you're a paid Wherobots user, you can't transform any additional data points.
+
+Only paid Wherobots users can transform additional data points. To transform data that isn't included in the default `examples` directorym, you must upgade your account.
 
 To learn more about upgrading your account, click the button button below
 
