@@ -1,8 +1,8 @@
 # Get Started: WVS Online
 
-Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, WVS emphasizes your insights by converting your flat data sources into contextually aware geospatial images.
-
+This guide details how to use the Wherobots Visual Studio Online in Python to create a 3DE™️ powered image of your tabular data.
 ## Expectation
+
 
 * WVS uses the provided coordinates to discern a place's location.  In this example, the coordinates are the location of a hiking trail in Tokyo, Japan.
 * WVS converts these coordinates to a contextually aware image.
