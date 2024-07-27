@@ -96,7 +96,7 @@ If installed WVS is installed successfully successfully, this command returns WV
       </button>
     </div>
     
-   1. Add your API key as a variable. 
+   2. Add your API key as a variable. 
 
     <div style="position: relative;">
       <pre><code id="code-sample">
