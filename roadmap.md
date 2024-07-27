@@ -1,8 +1,12 @@
-# Known Issues
+# Known Issues & Roadmap
 
 Within this documentation, the following is known to be wrong, flawed, or contrived.
 
 ## Infrastructure & Layout
+
+* The infrastructure, Git Hub pages, is not suitable for production-level B2B software documentation.
+  * In reality, I would look for a more suitable web framework.
+*   
 
 ## Images
 
