@@ -4,6 +4,9 @@ title: Methodology
 
 # Methodology 
 
-I have created this documentation with the following principles:
+
+I have fulfilled this assignment with the following principles in mind:
 
   * Provide a reader with a clear value proposition of the product.
+  * Allow for brevity wherever possible.
+  * Provide a call to action to convert users to paid tier, where possible.
