@@ -22,7 +22,7 @@ latitude,longitude
 
 WVS can convert these coordinates to the following image:
 
-![2d_3de](/images/3de.png)
+![2d_3de](/images/dimension.png)
 
 ## Get Started
 
