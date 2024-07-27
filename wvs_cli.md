@@ -31,15 +31,46 @@ To install WVS, do the following:
 
 1. Within your command line, run the following command:
 
-    ```python
-   pip install wherobotsvs
-   ```
+<div style="position: relative;">
+  <pre><code id="code-sample">
+    pip install wherobotsvs
+  </code></pre>
+  <button onclick="copyToClipboard()" style="position: absolute; top: 0; right: 0; padding: 5px 10px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard" viewBox="0 0 16 16">
+      <path d="M10 1.5H6a.5.5 0 0 0-.5.5v1H4a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1.5v-1a.5.5 0 0 0-.5-.5zM6 2h4v1H6V2z"/>
+      <path d="M4.5 3h7a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  function copyToClipboard() {
+    const code = document.getElementById('code-sample').innerText;
+    navigator.clipboard.writeText(code).then(() => {
+      alert('Code copied to clipboard!');
+    }, (err) => {
+      console.error('Failed to copy: ', err);
+    });
+  }
+</script>
 
 3. Confirm that you have installed WVS successfully by running the followwing command:
 
    ```python
    python wherobotsvs -v
    ```
+
+<div style="position: relative;">
+  <pre><code id="code-sample">
+    python wherobotsvs -v
+  </code></pre>
+  <button onclick="copyToClipboard()" style="position: absolute; top: 0; right: 0; padding: 5px 10px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard" viewBox="0 0 16 16">
+      <path d="M10 1.5H6a.5.5 0 0 0-.5.5v1H4a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1.5v-1a.5.5 0 0 0-.5-.5zM6 2h4v1H6V2z"/>
+      <path d="M4.5 3h7a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/>
+    </svg>
+  </button>
+</div>
 
 If installed WVS is installed successfully successfully, this command returns WVS' latest stable version.
 
