@@ -4,7 +4,8 @@ This guide details how to use Wherobots Visual Studio (WVS) Online in Python to 
 ## Expectation
 
 
-* WVS uses the provided coordinates to discern a place's location.  In this example, the coordinates are the location of a hiking trail in Tokyo, Japan.
+* WVS uses the provided coordinates to discern a place's location.
+   * In `examples/001.csv`, the coordinates are the location of a hiking trail in Tokyo, Japan.
 * WVS converts these coordinates to a contextually aware image.
 
 ## Prerequisites
