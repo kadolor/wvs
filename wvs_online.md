@@ -18,11 +18,13 @@ Before beginning this Get Started tutorial, you must have the following:
 
 ## Run a geospatial query
 
-1. Login to
+1. Login to [Wherobots Cloud](https://cloud.wherobots.com/)
 2. On the left-hand side click **Wherobots Visual Studio**.
+   
    ![nav](/images/navigation.png)
 
 3. In the **Convert geospatial data** section, select `examples/001.csv` from the dropdown menu.
+   
    ![convert](/images/convert.png)
 
 4. Click **Start**. Wait between 2 to 3 minutes.
