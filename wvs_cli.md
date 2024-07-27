@@ -6,8 +6,6 @@ title: WVS CLI Get Started
 
 This guide details how to use the Wherobots visual studio CLI in Python to create a 3DE™️ powered image of your tabular data.
 
-WVS converts CSV files to contextually aware 3D images.
-
 ## Expectation
 
 * WVS discerns that a CSV file containing coordinates are the location of a hiking trail in Tokyo, Japan.
@@ -73,7 +71,7 @@ To install WVS, complete the following steps:
       </button>
     </div>
 
-If installed WVS is installed successfully successfully, this command returns WVS' latest stable version.
+If installed WVS is installed successfully, this command returns WVS' latest stable version.
 
 ### Store your API key
 
