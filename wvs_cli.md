@@ -6,7 +6,7 @@ This guide details how to use the Wherobots Visual Studio CLI in Python to creat
 
 * WVS uses the provided coordinates to discern a place's location.
     * In `examples/001.csv`, the coordinates are the location of a hiking trail in Tokyo, Japan.
-* WVS converts these coordinates to a contextually aware image.
+* WVS converts comma-separated values (CSV) files to contextually aware 3D images.
 
 ## Prerequisites
 
