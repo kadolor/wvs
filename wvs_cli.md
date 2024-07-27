@@ -11,9 +11,7 @@ WVS converts CSV files to contextually aware 3D images.
 ## Expectation
 
 * WVS discerns that a CSV file containing coordinates are the location of a hiking trail in Tokyo, Japan.
-* WVS converts these coordinates to the following image:
-
-![2d_3de](/images/dimension.png)
+* WVS converts these coordinates to a contextually aware image.
 
 ## Prerequisites
 
@@ -130,6 +128,11 @@ WVS contains an example directory with several CSV files that can be transformed
     </svg>
   </button>
 </div>
+
+At this point, you should see the following image:
+
+![2d_3de](/images/dimension.png)
+
 
 ## What's next?
 
