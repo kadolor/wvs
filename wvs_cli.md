@@ -109,7 +109,7 @@ If WVS is installed successfully, this command returns WVS' latest stable versio
     
 ## Run a geospatial query
 
-WVS contains an `example` directory with several comma-separated values (CSV) files that can be converted with WVS.
+WVS contains an `example` directory with several comma-separated values (CSV) that can be converted with WVS.
 
 1. To generate a contextually aware 3DE image, run the following command in your terminal:
     <div style="position: relative;">
