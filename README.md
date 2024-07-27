@@ -8,6 +8,20 @@ and visualizing spatial data on WherobotsDB.
 Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, Wherobots showcases the value in your flat data sources by creating
 contextually aware geospatial images that emphasize your insights.
 
+
+### Supported workflow
+
+WVS converts CSV files to contextually aware 3D images.
+
+For example, WVS can discern that the following coordinates are for a hiking trail in Tokyo, Japan.
+
+```
+latitude,longitude
+35.6895,139.6917
+```
+
+Upon running `wherobotsvs`, you can see the following:
+
 ![2d_3de](/images/3de.png)
 
 ## Get Started
@@ -26,8 +40,6 @@ You can use WVS from the command line or from the browser.
   <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
     <li style="float: left;"><a href="/" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Get Started</a></li>
     <li style="float: left;"><a href="/roadmap.md" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Known Issues & Roadmap</a></li>
-    <li style="float: left;"><a href="/methodology.md" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none; transition: background-color 0.3s;">Methodology</a></li>
-
   </ul>
 </nav>
 <div style="padding: 20px;">
