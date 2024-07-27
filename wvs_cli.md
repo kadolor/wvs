@@ -31,18 +31,18 @@ To install WVS, do the following:
 
 3. Confirm that you have installed WVS successfully by running the followwing command:
 
+```python
+python wherobotssvs -v
 ```
-
-```
-This command should return WVS' latest stable version.
+If installed WVS is installed successfully successfully, this command returns WVS' latest stable version.
 
 ## Get your API key
 
 1. In your browser, go to [Wherobots Cloud](https://cloud.wherobots.com/).
 
-  1. Click **Settings**
-  2. Click **API keys**
-  3. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
+   1. Click **Settings**
+   2. Click **API keys**
+   3. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
 
 ## Build a spatial workflow
 
