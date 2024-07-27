@@ -62,7 +62,9 @@ WVS contains an example directory with several CSV files that can be transformed
 ## What's next?
 Unless you're a paid Wherobots user, you can't transform any additional data points.
 
-To upgrade your account, click 
+To learn more about upgrading your account, click the button button below
 
-[Upgrade account](https://wherobots.com/pricing/)
+<div style="text-align: center;">
+  <a href="https://wherobots.com/pricing/" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; on-click: copyToClipboard;">See pricing plans</a>
+</div>
 
