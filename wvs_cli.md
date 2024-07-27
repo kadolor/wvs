@@ -141,7 +141,7 @@ At this point, you should see the following contextually-aware image of a hiking
 
 Only paid Wherobots users can transform additional data points. To transform data that isn't included in the default `examples` directory, you must upgade your account.
 
-To learn more about upgrading your account, click the button button below.
+To learn more about upgrading your account, click the button below.
 
 <div style="text-align: center;">
   <a href="https://wherobots.com/pricing/" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; on-click: copyToClipboard;">See pricing plans</a>
