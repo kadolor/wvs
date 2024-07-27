@@ -4,7 +4,7 @@ title: WVS CLI Get Started
 
 # Get Started: WVS Command line interface (Python)
 
-This guide details how to use the Wherobots visual studio CLI in Python to create a 3DE:tm:-powered image of your tabular data.
+This guide details how to use the Wherobots visual studio CLI in Python to create a 3DE™️ powered image of your tabular data.
 
 WVS converts CSV files to contextually aware 3D images.
 
