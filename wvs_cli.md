@@ -52,8 +52,8 @@ If installed WVS is installed successfully successfully, this command returns WV
        ```python
        python wherobotsvs -v
        ```
+       
 ## Run a geospatial query
-
 
 ### View the tabular data
 
