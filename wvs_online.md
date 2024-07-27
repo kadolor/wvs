@@ -1,5 +1,20 @@
 # WVS Get Started: WVS Online
 
+This guide details how to use the Wherobots visual studio CLI in Python to create a 3DE:tm:-powered image of your tabular data.
+
+WVS converts CSV files to contextually aware 3D images.
+
+## Expectation
+
+* WVS discerns that a CSV file containing coordinates are the location of a hiking trail in Tokyo, Japan.
+* WVS converts these coordinates to a contextually aware image.
+
+## Prerequisites
+
+Before beginning this Get Started tutorial, you must have the following:
+
+* A Wherobots account. If you don't have an account yet, see [Creating Your Wherobots Account](https://docs.wherobots.com/latest/get-started/create-account/).
+* A valid Wherobots API key. If you don't have an API key, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
 
 
 <nav style="background-color: #333; padding: 10px;">
