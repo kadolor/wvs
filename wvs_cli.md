@@ -34,23 +34,24 @@ To install WVS, do the following:
 ```python
 python wherobotssvs -v
 ```
+
 If installed WVS is installed successfully successfully, this command returns WVS' latest stable version.
 
 ## Get your API key
 
 1. In your browser, go to [Wherobots Cloud](https://cloud.wherobots.com/).
-
    1. Click **Settings**
    2. Click **API keys**
    3. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
+   4. Add the API key to your bash profile.
 
 ## Build a spatial workflow
 
-### Review the tabular data
+### View the tabular data
 
 WVS contains an example directory with several CSV files that can be transformed with WVS.
 
-To navigate to examples directory
+
 
 ###
 
