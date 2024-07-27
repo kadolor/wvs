@@ -14,6 +14,11 @@ Before beginning this Get Started tutorial, you must have the following:
 * A code editor or IDE.
 * A packagage manager like `pip`.
 
+## Establish your developement environment
+
+To establish your developement environment you must:
+
+* Install WVS
 
 ## Install WVS
 
@@ -26,15 +31,18 @@ To install WVS, do the following:
 
 3. Confirm that you have installed WVS successfully by running the followwing command:
 
+```
+
+```
+This command should return WVS' latest stable version.
+
 ## Get your API key
 
 1. In your browser, go to [Wherobots Cloud](https://cloud.wherobots.com/).
 
-  1. Click *Settings*
-  2. Click *API keys*
+  1. Click **Settings**
+  2. Click **API keys**
   3. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
-
-This command should return WVS' latest stable version.
 
 ## Build a spatial workflow
 
