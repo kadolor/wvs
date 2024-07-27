@@ -15,7 +15,7 @@ Before beginning this Get Started tutorial, you must have the following:
 * A valid Wherobots API key. If you don't have an API key, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
 * An active version of Python. For more information on active versions of Python, see [Active Releases](https://www.python.org/downloads/#Active-Python-Releasex) in the Python Documentation.
 * A code editor or IDE.
-* A packagage manager like `pip`.
+* A package manager like `pip`.
 
 ## Establish your developement environment
 
