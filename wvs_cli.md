@@ -8,18 +8,31 @@ To showcase what's possible with WVS, this guide demonstrates how transform tabu
 
 Before beginning this Get Started tutorial, you must have the following:
 
-* A Wherobots account --  If you don't have an account yet, see TEXT.
+* A Wherobots account --  If you don't have an account yet, see [Creating Your Wherobots Account](https://docs.wherobots.com/latest/get-started/create-account/) in the Wherobots documentation.
+* A valid Wherobots API key. If you don't have an API key, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/) in the Wherobots documentation.
 * Python 3.x
 * A code editor or IDE.
-* A packagage manager like `pip`
+* A packagage manager like `pip`.
+
 
 ## Install WVS
 
 To install WVS, do the following:
 
 1. Within your command line, run the following command:
+   ```python
+   pip install wherobotsvs
+   ```
 
-2. Confirm that you have installed WVS successfully by running the followwing command:
+3. Confirm that you have installed WVS successfully by running the followwing command:
+
+## Get your API key
+
+1. In your browser, go to [Wherobots Cloud](https://cloud.wherobots.com/).
+
+  1. Click *Settings*
+  2. Click *API keys*
+  3. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
 
 This command should return WVS' latest stable version.
 
