@@ -13,13 +13,13 @@ Before beginning this Get Started tutorial, you must have the following:
 
 * A Wherobots account. If you don't have an account yet, see [Creating Your Wherobots Account](https://docs.wherobots.com/latest/get-started/create-account/).
 * A valid Wherobots API key. If you don't have an API key, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
-* An active version of Python. For more information on active versions of Python, see [Active Releases](https://www.python.org/downloads/#Active-Python-Releasex) in the Python Documentation.
+* An active version of Python. For more information on active versions of Python, see [Active Releases](https://www.python.org/downloads/#Active-Python-Releases) in the Python Documentation.
 * A code editor or IDE.
 * A package manager like `pip`.
 
-## Establish your developement environment
+## Establish your development environment
 
-To establish your developement environment you must:
+To establish your development environment you must:
 
 * Install the WVS Python package
 * Store your API Key
@@ -53,7 +53,7 @@ To install WVS, complete the following steps:
       }
     </script>
 
-2. Confirm that you have installed WVS successfully by running the followwing command:
+2. Confirm that you have installed WVS successfully by running the following command:
 
     <div style="position: relative;">
       <pre><code id="code-sample">
