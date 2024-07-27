@@ -27,7 +27,7 @@ Before beginning this Get Started tutorial, you must have the following:
 
 4. Click **Start**. Wait between 2 to 3 minutes.
 
-At this point, you should see the following image:
+At this point, you should see the following contextually-aware image of a hiking trail in Japan:
 
 ![2d_3de](/images/dimension.png)
 
