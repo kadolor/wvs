@@ -1,5 +1,5 @@
 ---
-Wherobots Visual Studio (WVS)
+title: Wherobots Visual Studio (WVS)
 ---
 
 # Wherobots Visual Studio
