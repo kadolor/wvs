@@ -1,3 +1,7 @@
+---
+title:  Wherobots Visual Studio Command line interface Get Started
+---
+
 # Wherobots Visual Studio Command line interface Get Started
 
 This guide details how to get started using the Wherobots visual studio CLI to create a visual representation.
