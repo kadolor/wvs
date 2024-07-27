@@ -77,7 +77,7 @@ If installed WVS is installed successfully, this command returns WVS' latest sta
    3. Click **API keys**.
    4. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
 
-1. Add the API key to your bash profile.
+2. Add the API key to your bash profile.
    1. From your command line, open your bash profile.
     <div style="position: relative;">
       <pre><code id="code-sample">
@@ -91,7 +91,7 @@ If installed WVS is installed successfully, this command returns WVS' latest sta
       </button>
     </div>
 
-   2. Add your API key as a variable. 
+3. Add your API key as a variable. 
     <div style="position: relative;">
       <pre><code id="code-sample">
         API_KEY = YOUR_API_KEY
