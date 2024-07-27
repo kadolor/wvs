@@ -10,7 +10,7 @@ contextually aware geospatial images.
 
 ### Supported workflow
 
-WVS converts comma-separated values (CSV) files to contextually aware 3D images.
+WVS converts comma-separated values (CSV) to contextually aware 3D images.
 
 For example, WVS can discern that the following coordinates are for a hiking trail in Tokyo, Japan.
 
