@@ -20,7 +20,7 @@ To establish your developement environment you must:
 
 * Install WVS
 
-## Install WVS
+### Install WVS
 
 To install WVS, do the following:
 
@@ -32,12 +32,12 @@ To install WVS, do the following:
 3. Confirm that you have installed WVS successfully by running the followwing command:
 
 ```python
-python wherobotssvs -v
+python wherobotsvs -v
 ```
 
 If installed WVS is installed successfully successfully, this command returns WVS' latest stable version.
 
-## Get your API key
+### Get your API key
 
 1. In your browser, go to [Wherobots Cloud](https://cloud.wherobots.com/).
    1. Click **Settings**
