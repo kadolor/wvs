@@ -8,7 +8,7 @@ To showcase what's possible with WVS, this guide demonstrates how transform tabu
 
 Before beginning this Get Started tutorial, you must have the following:
 
-* A Wherobots account --  If you don't have an account yet, see [Creating Your Wherobots Account](https://docs.wherobots.com/latest/get-started/create-account/) in the Wherobots documentation.
+* A Wherobots account. If you don't have an account yet, see [Creating Your Wherobots Account](https://docs.wherobots.com/latest/get-started/create-account/) in the Wherobots documentation.
 * A valid Wherobots API key. If you don't have an API key, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/) in the Wherobots documentation.
 * Python 3.x
 * A code editor or IDE.
@@ -19,31 +19,35 @@ Before beginning this Get Started tutorial, you must have the following:
 To establish your developement environment you must:
 
 * Install WVS
+* Store your API Key
 
 ### Install WVS
 
 To install WVS, do the following:
 
 1. Within your command line, run the following command:
-   ```python
+
+    ```python
    pip install wherobotsvs
    ```
 
 3. Confirm that you have installed WVS successfully by running the followwing command:
 
-```python
-python wherobotsvs -v
-```
+   ```python
+   python wherobotsvs -v
+   ```
 
 If installed WVS is installed successfully successfully, this command returns WVS' latest stable version.
 
-### Get your API key
+### Store your API key
 
 1. In your browser, go to [Wherobots Cloud](https://cloud.wherobots.com/).
    1. Click **Settings**
    2. Click **API keys**
    3. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
-   4. Add the API key to your bash profile.
+
+1. Add the API key to your bash profile.
+   1. From your command line, 
 
 ## Build a spatial workflow
 
@@ -51,9 +55,14 @@ If installed WVS is installed successfully successfully, this command returns WV
 
 WVS contains an example directory with several CSV files that can be transformed with WVS.
 
+1. Convert the example CSV into a dataframe
+2. Enter the geometry
+3. 
 
+## What's next?
+Unless you're a paid Wherobots user, you can't transform any additional data points.
 
-###
+To upgrade your account, click 
 
-
+[Upgrade account](https://wherobots.com/pricing/)
 
