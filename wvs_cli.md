@@ -79,7 +79,6 @@ If installed WVS is installed successfully, this command returns WVS' latest sta
 
 1. Add the API key to your bash profile.
    1. From your command line, open your bash profile.
-
     <div style="position: relative;">
       <pre><code id="code-sample">
         nano ~./bash_profile
@@ -91,9 +90,8 @@ If installed WVS is installed successfully, this command returns WVS' latest sta
         </svg>
       </button>
     </div>
-    
-   2. Add your API key as a variable. 
 
+   2. Add your API key as a variable. 
     <div style="position: relative;">
       <pre><code id="code-sample">
         API_KEY = YOUR_API_KEY
