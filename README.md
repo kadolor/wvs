@@ -28,11 +28,11 @@ WVS can convert these coordinates into an image of the hiking trail.
 You can use WVS from the command line or from the browser.
 
 <div style="text-align: center;">
-  <a href="https://example.com" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; on-click: copyToClipboard;">WVS CLI</a>
+  <a href="https://kadolor.github.io/wvs/wvs_cli" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; on-click: copyToClipboard;">WVS CLI</a>
 </div>
 <br>
 <div style="text-align: center;">
-  <a href="https://example.com" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">WVS Online</a>
+  <a href="https://kadolor.github.io/wvs/wvs_online" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">WVS Online</a>
 </div>
 <br>
 <nav style="background-color: #333; padding: 10px;">
