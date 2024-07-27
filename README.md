@@ -1,3 +1,7 @@
+---
+Wherobots Visual Studio (WVS)
+---
+
 # Wherobots Visual Studio
 
 Welcome to Wherobots Visual Studio (WVS), the fictitious geospatial visualization studio for building spatial workflows
