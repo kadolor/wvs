@@ -67,7 +67,7 @@ To install WVS, complete the following steps:
       </button>
     </div>
 
-If installed WVS is installed successfully, this command returns WVS' latest stable version.
+If WVS is installed successfully, this command returns WVS' latest stable version.
 
 ### Store your API key
 
