@@ -27,7 +27,9 @@ This command should return WVS' latest stable version.
 
 ### Review the tabular data
 
-WVS contains an example directory with several CSV files that co
+WVS contains an example directory with several CSV files that can be transformed with WVS.
+
+To navigate to examples directory
 
 ###
 
