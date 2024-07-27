@@ -1,6 +1,6 @@
 # Get Started: WVS Online
 
-This guide details how to use Wherobots Visual Studio (WVS) Online in Python to create a 3DE™️ powered image of your tabular data.
+This guide details how to use Wherobots Visual Studio (WVS) Online to create a 3DE™️ powered image of your tabular data.
 ## Expectation
 
 
