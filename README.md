@@ -20,7 +20,7 @@ latitude,longitude
 35.6895,139.6917
 ```
 
-Upon running `wherobotsvs`, you can see the following:
+WVS can convert these coordinates to the following image:
 
 ![2d_3de](/images/3de.png)
 
