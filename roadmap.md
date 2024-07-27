@@ -16,6 +16,7 @@ Within this documentation, the following is known to be wrong, flawed, or contri
 ## Product
 
 * Workflows are facile and I acknowledge that they would be more complicated to both achieve and document in reality.
+* Dimensional Data Depiction Engine (3DE) ™️ is a fictional technology that I created.
 
 <br>
 <nav style="background-color: #333; padding: 10px;">
