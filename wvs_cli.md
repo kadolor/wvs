@@ -8,9 +8,9 @@ To showcase what's possible with WVS, this guide demonstrates how transform tabu
 
 Before beginning this Get Started tutorial, you must have the following:
 
-* A Wherobots account. If you don't have an account yet, see [Creating Your Wherobots Account](https://docs.wherobots.com/latest/get-started/create-account/) in the Wherobots documentation.
-* A valid Wherobots API key. If you don't have an API key, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/) in the Wherobots documentation.
-* Python 3.x
+* A Wherobots account. If you don't have an account yet, see [Creating Your Wherobots Account](https://docs.wherobots.com/latest/get-started/create-account/).
+* A valid Wherobots API key. If you don't have an API key, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
+* An active version of Python. For more information on active versions of Python, see [Active Releases](https://www.python.org/downloads/#Active-Python-Releasex) in the Python Documentation.
 * A code editor or IDE.
 * A packagage manager like `pip`.
 
@@ -47,9 +47,13 @@ If installed WVS is installed successfully successfully, this command returns WV
    3. Copy your API Key. For more information, see [API Keys](https://docs.wherobots.com/latest/get-started/api-keys/).
 
 1. Add the API key to your bash profile.
-   1. From your command line, 
+   1. From your command line,
 
-## Build a spatial workflow
+       ```python
+       python wherobotsvs -v
+       ```
+## Run a geospatial query
+
 
 ### View the tabular data
 
