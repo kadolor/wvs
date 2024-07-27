@@ -18,7 +18,7 @@ Before beginning this Get Started tutorial, you must have the following:
 
 ## Run a geospatial query
 
-1. Login to [Wherobots Cloud](https://cloud.wherobots.com/)
+1. Login to [Wherobots Cloud](https://cloud.wherobots.com/).
 2. On the left-hand side click **Wherobots Visual Studio**.
    
    ![nav](/images/navigation.png)
