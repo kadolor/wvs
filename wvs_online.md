@@ -1,10 +1,6 @@
 # WVS Get Started: WVS Online
 
-This guide details how to use the Wherobots visual studio Online to create a 3DE™️ image of your tabular data.
-
-3DE™️ is Wherobots' proprietary Dimensional Data Depiction Engine.
-
-WVS leverages this engine to convert CSV files to contextually aware 3D images.
+Using the proprietary Dimensional Data Depiction Engine (3DE) ™️, WVS emphasizes your insights by converting your flat data sources into contextually aware geospatial images.
 
 ## Expectation
 
