@@ -1,5 +1,5 @@
 ---
-title: WVS CLI Get Started
+title: Get Started: WVS CLI
 ---
 
 # Get Started: WVS Command line interface (Python)
