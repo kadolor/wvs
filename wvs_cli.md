@@ -114,7 +114,9 @@ If installed WVS is installed successfully, this command returns WVS' latest sta
     
 ## Run a geospatial query
 
-WVS contains an example directory with several CSV files that can be transformed with WVS. Run the following commmand to generate a contextually aware 3DE image.
+WVS contains an example directory with several CSV files that can be transformed with WVS.
+
+1. To generate a contextually aware 3DE image, run the following command:
 
 <div style="position: relative;">
   <pre><code id="code-sample">
@@ -128,7 +130,9 @@ WVS contains an example directory with several CSV files that can be transformed
   </button>
 </div>
 
-At this point, you should see the following image:
+2. Wait 2 to 3 minutes.
+
+At this point, you should see the following contextually-aware image of a hiking trail in Japan:
 
 ![2d_3de](/images/dimension.png)
 
